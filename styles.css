@@ -1,0 +1,35 @@
+.color-example  {
+    color: rgb(101, 42, 156);
+    background-color: rgb(243, 207, 130);
+    border: solid black 2px;
+}
+
+.header-example {
+    color: rgb(65, 58, 73);
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.list-example {
+    list-style-type: decimal;
+    color: rgb(101, 42, 156);
+
+
+}
+
+.text-example {
+
+    font-family: Arial;
+    font-size: 18px;
+    text-transform: capitalize;
+    text-decoration: underline;
+
+
+}
+
+.div-example {
+
+    background-color: red;
+    border: solid 2px;
+}
