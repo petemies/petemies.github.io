@@ -1,0 +1,29 @@
+.header {
+    background-color: #A6FFA1;
+    font-size: large;
+}
+
+.nav {
+background-color: #B5D2CB;
+}
+
+.section {
+    background-color: #BFFFBC;
+}
+
+body {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nav2 {
+    float: left;
+    background-color: #B5D2CB;
+}
+
+.section2 {
+    float: right;
+    background-color: #BFFFBC;
+
+}
